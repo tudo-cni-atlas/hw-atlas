@@ -4,6 +4,8 @@ hw-altas-node
 This is a minimal node PCB for the DecaWave DWM1000 module.
 The main MCU is a LPC1347.
 
+[![DOI](https://zenodo.org/badge/20743/tudo-cni-atlas/hw-atlas.svg)](https://zenodo.org/badge/latestdoi/20743/tudo-cni-atlas/hw-atlas)
+
 Project schematic:
 ![Top](docu/schematic.png "Top")
 
