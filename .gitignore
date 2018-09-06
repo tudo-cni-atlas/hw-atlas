@@ -1,3 +1,4 @@
 *.FCStd1
 *.b#*
 *.s#*
+*.DS_Store
