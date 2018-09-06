@@ -6,8 +6,10 @@ The main MCU is a STM32F103C8T6.
 
 [![DOI](https://zenodo.org/badge/20743/tudo-cni-atlas/hw-atlas.svg)](https://zenodo.org/badge/latestdoi/20743/tudo-cni-atlas/hw-atlas)
 
+![Picture](docu/cnode_rev_a.jpg "Picture")
+
 Project schematic:
-![Top](docu/cnode_rev_a.png "Top")
+![Schematic](docu/cnode_rev_a.png "Schematic")
 
 ## BOM
 | Identifier | Type/Value | Quantity | Supplier Id | Supplier | Comment |
