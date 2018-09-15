@@ -3,7 +3,7 @@ hw-altas
 
 A minimal node PCB for the DecaWave DWM1000 module and the STM32F103C8T6 Evaluation Board known as "Blue Pill".
 
-[![DOI](https://zenodo.org/badge/20743/tudo-cni-atlas/hw-atlas.svg)](https://zenodo.org/badge/latestdoi/20743/tudo-cni-atlas/hw-atlas)
+[![DOI](https://zenodo.org/badge/64030403.svg)](https://zenodo.org/badge/latestdoi/64030403)
 
 ![Picture](docu/cnode_rev_a.jpg "Picture")
 
