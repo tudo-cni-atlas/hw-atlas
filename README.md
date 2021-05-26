@@ -1,16 +1,20 @@
 hw-altas
 ================
+## Firmware 
 
+The firmware for STM32-based ATLAS anchor and tag nodes is provided as .elf file. 
+
+## Hardware design
 A minimal node PCB for the DecaWave DWM1000 module and the STM32F103C8T6 Evaluation Board known as "Blue Pill".
 
 [![DOI](https://zenodo.org/badge/64030403.svg)](https://zenodo.org/badge/latestdoi/64030403)
 
 ![Picture](docu/cnode_rev_a.jpg "Picture")
 
-## Project schematic:
+### Project schematic:
 ![Schematic](docu/cnode_rev_a.png "Schematic")
 
-## BOM
+### BOM
 | Identifier | Type/Value | Quantity | Supplier Id | Supplier | Comment |
 | ---        | ---        | ---      | ---         | ---      | ---     |
 | R1-R7 | 10 kΩ | 7 | RND 0805 1 1,0K | [Reichelt][reichelt] |
